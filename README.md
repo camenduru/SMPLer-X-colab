@@ -20,3 +20,7 @@ https://caizhongang.github.io/projects/SMPLer-X/
 ## Output
 
 https://github.com/camenduru/SMPLer-X-colab/assets/54370274/6aa9fefa-fce8-4663-80a1-93a0d1a5aef6
+
+| _ | _
+| --- | --- |
+![Screenshot 2023-10-03 121533](https://github.com/camenduru/SMPLer-X-colab/assets/54370274/4e1349ec-54ff-49bb-a33d-5751c9e9f5af) | ![Screenshot 2023-10-03 121521](https://github.com/camenduru/SMPLer-X-colab/assets/54370274/630afa7c-9c28-4cff-a556-e19de273385d)
