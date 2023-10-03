@@ -22,11 +22,15 @@ According to the license, we should register at https://smpl.is.tue.mpg.de and h
 
 ## Output
 
-inference model: smpler_x_l32 <br />
-
 https://huggingface.co/camenduru/SMPLer-X/tree/main/test_video <br />
 
+inference model: smpler_x_l32 <br />
+
 https://github.com/camenduru/SMPLer-X-colab/assets/54370274/6aa9fefa-fce8-4663-80a1-93a0d1a5aef6
+
+inference model: smpler_x_h32 <br />
+
+https://github.com/camenduru/SMPLer-X-colab/assets/54370274/5c8366e2-1935-4a10-894d-f48cd7b6db99
 
 | _ | _
 | --- | --- |
