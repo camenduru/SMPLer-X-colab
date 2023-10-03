@@ -17,6 +17,9 @@ https://arxiv.org/abs/2309.17448
 ## Page
 https://caizhongang.github.io/projects/SMPLer-X/
 
+## License
+According to the license, we should register at https://smpl.is.tue.mpg.de and https://smpl-x.is.tue.mpg.de
+
 ## Output
 
 https://huggingface.co/camenduru/SMPLer-X/tree/main/test_video
