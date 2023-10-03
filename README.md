@@ -19,6 +19,8 @@ https://caizhongang.github.io/projects/SMPLer-X/
 
 ## Output
 
+https://huggingface.co/camenduru/SMPLer-X/tree/main/test_video
+
 https://github.com/camenduru/SMPLer-X-colab/assets/54370274/6aa9fefa-fce8-4663-80a1-93a0d1a5aef6
 
 | _ | _
