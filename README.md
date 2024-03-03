@@ -2,25 +2,26 @@
 🔥 Please join our discord server https://discord.gg/k5BwmmvJJU <br />
 🥳 Please join my patreon community https://patreon.com/camenduru <br />
 
-## 🦒 Colab
+### 🍊 Jupyter Notebook
 
-| Colab | Info
+| Notebook | Info
 | --- | --- |
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/SMPLer-X-colab/blob/main/SMPLer_X_colab.ipynb) | SMPLer_X_colab
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/SMPLer-X-colab/blob/main/SMPLer_X_gradio_jupyter.ipynb) | SMPLer_X_gradio_jupyter
 
-## Main Repo
+### 🧬 Code
 https://github.com/caizhongang/SMPLer-X
 
-## Paper
+### 📄 Paper
 https://arxiv.org/abs/2309.17448
 
-## Page
+### 🌐 Page
 https://caizhongang.github.io/projects/SMPLer-X/
 
 ## License
 According to the license, we should register at https://smpl.is.tue.mpg.de and https://smpl-x.is.tue.mpg.de
 
-## Output
+### 🖼 Output
 
 https://huggingface.co/camenduru/SMPLer-X/tree/main/test_video <br />
 
